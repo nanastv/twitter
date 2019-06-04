@@ -1,0 +1,78 @@
+.top {
+	height: 60px;
+	background: yellow;
+	box-sizing: border-box;
+	padding-top: 10px;
+	padding-bottom: 10px
+}
+.topMain{
+	display: flex;
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.lefT {
+	margin-right: auto;
+	width: 300px
+}
+.midlT {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px;
+}
+.righT {
+	margin-left: auto;
+	width: 400px
+}
+.main {
+	width: 1200px;
+	background: green;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	box-sizing: border-box;
+}
+.left {
+	width: 270px;
+	height: 600px;
+	background: blue;
+	margin-right: auto;
+}
+.str {
+	height: 200px;
+	background: red;
+	margin-bottom: 10px
+}
+.actyal {
+	height: 400px;
+	background: red;
+	margin-bottom: 10px
+}
+.midle {
+	width: 600px;
+	height: 1000px;
+	background: purple;
+	margin-left: auto;
+	margin-right: auto;
+}
+.right {
+	width: 270px;
+	background: black;
+	margin-left: auto;
+}
+.obnova {
+	height: 300px;
+	background: yellow
+}
+.interes {
+	height: 300px;
+	background: gray;
+	margin-top: 10px;
+	margin-bottom: 10px
+}
+.info {
+	height: 200px;
+	background: yellow
+}
